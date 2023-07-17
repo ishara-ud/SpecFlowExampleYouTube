@@ -10,5 +10,5 @@ Test Feature:
 Search on YouTube website
 
 Reference:
-[https://docs.specflow.org/projects/specflow/en/latest/index.html](https://docs.specflow.org/projects/specflow/en/latest/Bindings/Context-Injection.html)https://docs.specflow.org/projects/specflow/en/latest/Bindings/Context-Injection.html
+https://docs.specflow.org/projects/specflow/en/latest/Bindings/Context-Injection.html
 https://www.selenium.dev/documentation/
